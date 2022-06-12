@@ -1,0 +1,6 @@
+module Pods_BetterSplit {
+  umbrella header "Pods-BetterSplit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_BetterSplit_BetterSplitTests {
+  umbrella header "Pods-BetterSplit-BetterSplitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
